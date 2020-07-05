@@ -1,0 +1,55 @@
+﻿生成启动时间为 2020/6/30 17:15:38。
+     1>项目“D:\C\连连看 - 副本\LLK\LLK.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\安装位置\VS\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\LLK.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\安装位置\VS\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\LLK.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BaseGame.cpp BKOptionDlg.cpp Config.cpp EasyGame.cpp EasyGameDlg.cpp GameControl.cpp GameDlg.cpp GameLogic.cpp Graph.cpp HelpDialog.cpp LLK.cpp LLKDlg.cpp MusicOptionDlg.cpp RankDlg.cpp ScoreDao.cpp ScoreLogic.cpp SettingDlg.cpp ThemeOptionDlg.cpp
+         BaseGame.cpp
+         BKOptionDlg.cpp
+         Config.cpp
+         EasyGame.cpp
+         EasyGameDlg.cpp
+         GameControl.cpp
+         GameDlg.cpp
+         GameLogic.cpp
+         Graph.cpp
+         HelpDialog.cpp
+         LLK.cpp
+         LLKDlg.cpp
+         MusicOptionDlg.cpp
+         RankDlg.cpp
+         ScoreDao.cpp
+         ScoreLogic.cpp
+         SettingDlg.cpp
+         ThemeOptionDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\LLK.res" LLK.rc 
+       Link:
+         D:\安装位置\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C\连连看 - 副本\Release\LLK.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\安装位置\VS\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\C\连连看 - 副本\Release\LLK.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C\连连看 - 副本\Release\LLK.lib" /MACHINE:X86 /SAFESEH Release\LLK.res
+         Release\BaseGame.obj
+         Release\BKOptionDlg.obj
+         Release\Config.obj
+         Release\EasyGame.obj
+         Release\EasyGameDlg.obj
+         Release\GameControl.obj
+         Release\GameDlg.obj
+         Release\GameLogic.obj
+         Release\Graph.obj
+         Release\HelpDialog.obj
+         Release\LLK.obj
+         Release\LLKDlg.obj
+         Release\MusicOptionDlg.obj
+         Release\RankDlg.obj
+         Release\ScoreDao.obj
+         Release\ScoreLogic.obj
+         Release\SettingDlg.obj
+         Release\stdafx.obj
+         Release\ThemeOptionDlg.obj
+         正在生成代码
+         已完成代码的生成
+         LLK.vcxproj -> D:\C\连连看 - 副本\Release\LLK.exe
+     1>已完成生成项目“D:\C\连连看 - 副本\LLK\LLK.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.50
